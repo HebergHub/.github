@@ -2,7 +2,7 @@
 
 # HebergHub
 
-**Hébergement de serveurs de jeu, VPS, sites web et applications — sur notre propre infrastructure, en France.**
+**Hébergement de serveurs de jeu, VPS, sites web et applications — en France.**
 
 [Site](https://heberghub.fr) · [Boutique](https://boutique.heberghub.fr) · [Statut des services](https://heberghub.fr/status.html)
 
@@ -14,9 +14,8 @@
 
 1. [Ce que nous proposons](#ce-que-nous-proposons)
 2. [Comment ça marche](#comment-ça-marche)
-3. [Notre infrastructure](#notre-infrastructure)
+3. [Nos engagements](#nos-engagements)
 4. [Statut et support](#statut-et-support)
-5. [Open source](#open-source)
 
 ---
 
@@ -38,22 +37,18 @@ Toutes les offres se commandent et se gèrent depuis l'espace client : **[boutiq
 - **Adresse prête à l'emploi** : `votre-nom.game.heberghub.fr`, `votre-nom.vps.heberghub.fr`, `site-xx.web.heberghub.fr` ou `votre-app.apps.heberghub.fr`, en HTTPS.
 - **Ressources garanties** : le stock affiché correspond à la capacité réellement disponible, nous ne survendons pas.
 
-## Notre infrastructure
+## Nos engagements
 
-- Serveurs **physiques** que nous administrons nous-mêmes, en France.
-- Virtualisation **Proxmox VE** en cluster, stockage **ZFS** en miroir.
-- **Sauvegardes quotidiennes** de l'infrastructure.
-- Réseau segmenté et pare-feu : chaque client est **isolé** des autres.
-- Supervision continue et page de statut publique.
+- 🌱 **Infrastructure éco-responsable, hébergée en France.**
+- 🔒 **La sécurité en priorité** : chaque client est isolé des autres.
+- 💾 **Sauvegardes** régulières.
+- 👀 **Une équipe qui surveille les services en permanence.**
 
 ## Statut et support
 
 - 📈 État des services en temps réel : **[heberghub.fr/status.html](https://heberghub.fr/status.html)**
 - 💬 Support : depuis votre **espace client** (tickets) sur [boutique.heberghub.fr](https://boutique.heberghub.fr)
 
-## Open source
-
-HebergHub s'appuie sur des logiciels libres : Proxmox VE, Pterodactyl, Paymenter, Coolify, ZFS, Debian. Merci à leurs communautés.
 
 <div align="center">
 <sub>© HebergHub</sub>
