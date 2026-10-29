@@ -26,7 +26,7 @@ Les offres se commandent et se gèrent depuis l'espace client : **[boutique.hebe
 
 - **Livraison automatique** : le service est créé dès la commande validée.
 - **Gestion depuis le navigateur** : console, fichiers, redémarrage, accès SSH et SFTP.
-- **Adresse prête à l'emploi**, en HTTPS : `votre-nom.game.heberghub.fr`, `votre-nom.vps.heberghub.fr`, `site-xx.web.heberghub.fr` ou `votre-app.apps.heberghub.fr`.
+- **Adresse prête à l'emploi**, en HTTPS : `votre-nom.game.heberghub.app`, `votre-nom.vps.heberghub.app`, `site-xx.web.heberghub.app` ou `votre-app.apps.heberghub.app`.
 - **Stock réel** : le stock affiché est calculé sur la capacité réellement disponible de nos serveurs.
 
 ## Nos engagements
